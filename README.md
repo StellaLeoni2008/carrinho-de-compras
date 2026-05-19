@@ -6,10 +6,14 @@
 ## 💻 Linguagens usadas no projeto
 <img loading="lazy" src="https://img.shields.io/badge/HTML-orange"/>      <img loading="lazy" src="https://img.shields.io/badge/CSS-blue"/>     <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow"/>
 
+---
+
 ## 📌 Sobre
 O *Carrinho de Compras* foi desenvolvido como parte das atividades do curso **Alura – Lógica de Programação: praticando com desafios**.
 Assim como os outros projetos do curso, o foco principal foi praticar lógica de programação com JavaScript, sem aprofundamento em HTML e CSS. O objetivo foi desenvolver o raciocínio lógico e a manipulação de elementos da página para criar funcionalidades dinâmicas.
 Neste projeto, o usuário pode selecionar produtos, definir a quantidade desejada e adicioná-los a um carrinho de compras. O sistema calcula automaticamente o subtotal de cada item e atualiza o valor total da compra em tempo real.
+
+---
 
 ## 🧠 Conceitos Fundamentais Praticados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de programação, como:
@@ -21,6 +25,21 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de
 - Uso de funções para organizar as funcionalidades da aplicação
 - Atualização dinâmica da interface ao adicionar ou limpar itens do carrinho
 - Controle do estado da aplicação (lista de produtos e valor total)a da interface
+
+---
+
+## ▶️ Como executar o projeto
+
+Para visualizar:
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/StellaLeoni2008/carrinho-de-compras.git
+```
+
+
+2. Abra o arquivo ```index.html``` no navegador.
+
 
 ## Autores 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/237313711?v=4" width=115><br><sub>Stella Leoni</sub>](https://github.com/StellaLeoni2008) | 
