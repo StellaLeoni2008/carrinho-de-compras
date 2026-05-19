@@ -9,24 +9,38 @@
 ---
 
 ## 📌 Sobre
+
 O *Carrinho de Compras* foi desenvolvido como parte das atividades do curso **Alura – Lógica de Programação: praticando com desafios**.
-Assim como os outros projetos do curso, o foco principal foi praticar lógica de programação com JavaScript, sem aprofundamento em HTML e CSS. O objetivo foi desenvolver o raciocínio lógico e a manipulação de elementos da página para criar funcionalidades dinâmicas.
-Neste projeto, o usuário pode selecionar produtos, definir a quantidade desejada e adicioná-los a um carrinho de compras. O sistema calcula automaticamente o subtotal de cada item e atualiza o valor total da compra em tempo real.
+
+O projeto simula o funcionamento básico de um carrinho de compras de e-commerce, permitindo selecionar produtos, definir quantidades e calcular automaticamente o valor total da compra.
+
+O principal objetivo foi praticar a construção de lógicas relacionadas ao gerenciamento de itens, cálculos automáticos e atualização dinâmica da interface utilizando JavaScript.
+
+---
+
+## ⚙️ Funcionalidades
+- Seleção de produtos
+- Definição da quantidade de itens
+- Cálculo automático do subtotal
+- Atualização dinâmica do valor total
+- Limpeza do carrinho
+- Exibição dos produtos adicionados
 
 ---
 
 ## 🧠 Conceitos Fundamentais Praticados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de programação, como:
-- Estruturação e manipulação de variáveis
-- Manipulação do DOM para atualizar elementos da página
-- Captura de valores inseridos pelo usuário
-- Manipulação de strings para separar informações de produtos
-- Cálculo de valores e atualização dinâmica do total da compra
-- Uso de funções para organizar as funcionalidades da aplicação
-- Atualização dinâmica da interface ao adicionar ou limpar itens do carrinho
-- Controle do estado da aplicação (lista de produtos e valor total)a da interface
+- Manipulação de elementos da página com DOM
+- Captura e tratamento de dados inseridos pelo usuário
+- Cálculos automáticos utilizando JavaScript
+- Manipulação de strings para separar informações dos produtos
+- Atualização dinâmica dos valores exibidos na interface
+- Organização da lógica da aplicação com funções
+- Controle do estado do carrinho de compras
+- Estruturas condicionais e operações matemáticas
 
 ---
+
 
 ## ▶️ Como executar o projeto
 
