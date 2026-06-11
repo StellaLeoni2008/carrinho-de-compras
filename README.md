@@ -4,7 +4,7 @@
 </p>
 
 ## 💻 Linguagens usadas no projeto
-<img loading="lazy" src="https://img.shields.io/badge/HTML-orange"/>      <img loading="lazy" src="https://img.shields.io/badge/CSS-blue"/>     <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow"/>
+<img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow"/>      <img loading="lazy" src="https://img.shields.io/badge/CSS-blue"/>     <img loading="lazy" src="https://img.shields.io/badge/HTML-orange"/>
 
 ---
 
